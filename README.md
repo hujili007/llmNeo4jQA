@@ -23,6 +23,7 @@ $ conda activate llmNeo4jQA
 $ pip install zhipuai -U
 $ pip install langchain
 $ pip install langchain-community
+$ pip install fastapi
 ```
 
 ### step 3 Run MedcineNeo4jQA.py
